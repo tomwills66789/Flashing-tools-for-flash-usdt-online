@@ -1,5 +1,5 @@
 # Flashing-tools-for-flash-usdt-online https://drewztools.com/
-# USDT Wallet & Transaction Demo  
+# USDT Wallet & Transaction   
 A clean, open-source educational toolkit showing how to interact with real USDT (ERC-20) using Web3.  
 This project is safe, legal, and generate or Flashes USDT.  
 Everything uses real blockchain test networks for learning and development.
